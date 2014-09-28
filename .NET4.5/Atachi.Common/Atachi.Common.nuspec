@@ -19,13 +19,8 @@
     <iconUrl>https://nuget.org/Content/Images/packageDefaultIcon-50x50.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <licenseUrl>http://opensource.org/licenses/Apache-2.0</licenseUrl>
-    <copyright>Copyright  2014</copyright>
+    <copyright>Copyright 2014 atachimiko</copyright>
     <references></references>
     <tags></tags>
   </metadata>
-  <files>
-    <file src="lib\" target="lib" />
-    <file src="tools\" target="tools" />
-    <file src="content\" target="content" />
-  </files>
 </package>
