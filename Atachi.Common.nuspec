@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Atachi.Common.nuspec</id>
+    <version>$version$</version>
+    <title>Atachi.Common.nuspec</title>
+    <authors>atachimiko</authors>
+    <owners></owners>
+    <description>
+      Atachimiko用 共通ライブラリ
+    </description>
+    <releaseNotes>
+    </releaseNotes>
+    <summary>
+      Atachimiko用 共通ライブラリ
+    </summary>
+    <language>ja-JP</language>
+    <projectUrl>https://nuget.org/packages/Atachi.Common.nuspec</projectUrl>
+    <iconUrl>https://nuget.org/Content/Images/packageDefaultIcon-50x50.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>http://opensource.org/licenses/Apache-2.0</licenseUrl>
+    <copyright>Copyright  2014</copyright>
+    <references></references>
+    <tags></tags>
+  </metadata>
+  <files>
+    <file src="lib\" target="lib" />
+    <file src="tools\" target="tools" />
+    <file src="content\" target="content" />
+  </files>
+</package>
